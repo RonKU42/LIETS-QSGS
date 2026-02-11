@@ -1,6 +1,7 @@
 # LIETS-QSGS
 
 Author information:
+
 Ruofan Wang
 Department of Chemical and Petroleum Engineering
 Khalifa University, Abu Dhabi, UAE
